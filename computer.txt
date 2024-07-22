@@ -1,0 +1,1 @@
+computer is a wonderful machine. It takes input from the user and gives an output.
